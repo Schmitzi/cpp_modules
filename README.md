@@ -23,4 +23,15 @@ This repository contains a series of modules designed to guide learners through 
 - **Operator Overloading**: Enabling intuitive operator use for custom classes.
 - **Orthodox Canonical Form**: Following best practices for C++ class design with constructors, destructors, and assignment operators.
 
+### Module 03 - Inheritance
 
+- **Base and Derived Classes**: Understanding the relationship between parent and child classes.
+    Construction/Destruction Chaining: Properly managing constructor and destructor calls in inheritance.
+- **Special Member Functions**: Enhancing functionality with additional member functions.
+- **Deep Copy Implementation**: Ensuring memory safety by avoiding shallow copies.
+
+### Module 04 - Subtype Polymorphism and Abstract Classes
+
+- **Abstract Classes**: Designing non-instantiable base classes with pure virtual functions.
+- **Subtype Polymorphism**: Leveraging polymorphism for dynamic class behavior.
+- **Memory Management**: Proper handling of memory allocation and preventing leaks with virtual destructors.
