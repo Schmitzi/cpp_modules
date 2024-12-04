@@ -35,3 +35,18 @@ This repository contains a series of modules designed to guide learners through 
 - **Abstract Classes**: Designing non-instantiable base classes with pure virtual functions.
 - **Subtype Polymorphism**: Leveraging polymorphism for dynamic class behavior.
 - **Memory Management**: Proper handling of memory allocation and preventing leaks with virtual destructors.
+
+### Module 05 - Repetition and Exceptions
+
+- **Exception Classes**: Handling errors using custom exception classes such as `GradeTooHighException` and `GradeTooLowException`.
+- **Bureaucratic Systems**: Simulating real-world systems like office workflows, with classes such as `Bureaucrat`, `Form`, and their derivatives.
+- **Advanced Exception Handling**: Using `try-catch` blocks to manage exceptions effectively.
+- **Concrete Forms**: Implementation of specific forms like `ShrubberyCreationForm`, `RobotomyRequestForm`, and `PresidentialPardonForm`.
+- **Intern Class**: Automating repetitive tasks through a `makeForm` function that generates forms dynamically.
+
+### Module 06 - C++ Casts
+
+- **Scalar Type Conversion**: Implementing a `ScalarConverter` class to handle conversions between `char`, `int`, `float`, and `double`.
+- **Serialization**: Converting objects into serializable formats using custom `serialize` and `deserialize` methods.
+- **Dynamic Type Identification**: Identifying real object types using inheritance and polymorphism without the use of `typeid`.
+- **Specific Cast Usage**: Employing `static_cast`, `dynamic_cast`, `const_cast`, and `reinterpret_cast` as appropriate for various conversion
