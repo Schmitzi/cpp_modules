@@ -50,3 +50,10 @@ This repository contains a series of modules designed to guide learners through 
 - **Serialization**: Converting objects into serializable formats using custom `serialize` and `deserialize` methods.
 - **Dynamic Type Identification**: Identifying real object types using inheritance and polymorphism without the use of `typeid`.
 - **Specific Cast Usage**: Employing `static_cast`, `dynamic_cast`, `const_cast`, and `reinterpret_cast` as appropriate for various conversion
+
+### Module 07 - C++ Templates
+
+- **Function Templates**: Implementing versatile function templates for generic operations like `swap`, `min`, and `max.
+- **Array Operations**: Creating a template-based array class with proper memory management and bounds checking.
+- **Iterator Implementation**: Developing a generic iterator function template to process array elements.
+- **Template Specialization**: Understanding and implementing template specialization for different data types.
