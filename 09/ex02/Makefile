@@ -37,7 +37,7 @@ $(OBJ_DIR)%.o: $(SRC_DIR)%.cpp
 all: $(NAME)
 
 $(NAME): $(OBJ)
-	@echo "$(YELLOW)Compiling exercise$(RESET)"
+	echo "$(YELLOW)Compiling exercise$(RESET)"
 	@$(CXX) $(CXXFLAGS) $(OBJ) -o $(NAME)
 	@echo "$(GREEN)Exercise built$(RESET)"
 

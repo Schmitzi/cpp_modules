@@ -57,3 +57,15 @@ This repository contains a series of modules designed to guide learners through 
 - **Array Operations**: Creating a template-based array class with proper memory management and bounds checking.
 - **Iterator Implementation**: Developing a generic iterator function template to process array elements.
 - **Template Specialization**: Understanding and implementing template specialization for different data types.
+
+### Module 08 - Templated Containers, Iterators, Algorithms
+
+- **Easy Find**: Implement a template function that searches for integers in containers, using STL algorithms to locate the first occurrence and handling cases when no match is found.
+- **Span**: Create a class that stores integers (up to N) with methods to find the shortest and longest spans between values, plus functionality to add numbers via iterators.
+- **MutantStack**: Extend std::stack to make it iterable while maintaining all original functionality, demonstrating inheritance and iterator implementation.
+
+### Module 09 - STL
+
+- **Bitcoin Exchange**: Build a program that reads a database of Bitcoin prices and calculates values for given dates, handling various input errors and finding the closest available price.
+- **Reverse Polish Notation**: Implement a calculator that evaluates expressions in RPN format (postfix notation), supporting basic operations and error handling.
+- **PmergeMe**: Create a program that implements the Ford-Johnson merge-insert sort algorithm using two different STL containers, measuring and comparing performance
